@@ -1,0 +1,8 @@
+Ime: Berkcan 
+Ocenka ot izpit: 4.69081
+Ocenka na diploma: 3.00375
+Srednoaritmetichna ocenka: 3.84728
+Ime: Sinan 
+Ocenka ot izpit: 5.4263
+Ocenka na diploma: 3.57993
+Srednoaritmetichna ocenka: 4.50311
